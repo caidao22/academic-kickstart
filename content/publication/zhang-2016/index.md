@@ -9,5 +9,6 @@ selected = true
 publication = "*SIAM Journal on Scientific Computing*"
 tags = ["Dimsim", "General linear methods", "Implicit-explicit integration"]
 doi = "10.1137/15M1018897"
+url_pdf = 'publication/zhang-2016/SISC_IMEXGLM_final.pdf'
 +++
 

@@ -9,5 +9,6 @@ selected = true
 publication = "*Proceedings of the 47th International Conference on Parallel Processing - ICPP 2018*"
 tags = ["PETSc", "Xeon Phi", "many-core", "parallel SpMV", "vectorization"]
 doi = "10.1145/3225058.3225100"
+url_pdf = 'publication/zhang-2018/ICPP_KNL_final.pdf'
 +++
 

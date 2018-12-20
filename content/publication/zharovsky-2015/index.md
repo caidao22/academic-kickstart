@@ -9,5 +9,6 @@ selected = true
 publication = "*SIAM Journal on Numerical Analysis*"
 tags = ["Implicit-explicit methods", "Order reduction", "Two-step Runge-Kutta"]
 doi = "10.1137/130937883"
+url_pdf = 'publication/zharovsky-2015/SINUM_TSRK_final.pdf'
 +++
 

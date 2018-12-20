@@ -9,5 +9,6 @@ selected = true
 publication = "*Journal of Scientific Computing*"
 tags = ["DIMSIM", "General linear methods", "Implicit-explicit", "ODE"]
 doi = "10.1007/s10915-014-9819-z"
+url_pdf = 'publication/zhang-2014-a/JSC_IMEXGLM_final.pdf'
 +++
 

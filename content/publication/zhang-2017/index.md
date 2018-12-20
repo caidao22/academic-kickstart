@@ -9,5 +9,6 @@ selected = true
 publication = "*IEEE Transactions on Circuits and Systems I: Regular Papers*"
 tags = ["Adjoint sensitivity", "discrete sensitivity", "power system dynamics", "trajectory sensitivity analysis (TSA)", "transient stability"]
 doi = "10.1109/TCSI.2017.2651683"
+url_pdf = 'publication/zhang-2017/TCASI_DASA_final.pdf'
 +++
 

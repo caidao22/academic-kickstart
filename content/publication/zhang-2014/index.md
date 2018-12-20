@@ -9,5 +9,6 @@ selected = true
 publication = "*SIAM Journal on Scientific Computing*"
 tags = ["Runge--Kutta methods", "adjoint model", "sensitivity analysis", "tangent linear model"]
 doi = "10.1137/130912335"
+url_pdf = 'publication/zhang-2014/SISC_FATODE_final.pdf'
 +++
 
