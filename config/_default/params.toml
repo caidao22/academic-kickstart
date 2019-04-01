@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "dark"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -103,7 +103,7 @@ zoom = 15
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_css = []
-plugins_js  = []
+plugins_js  = ["canvas-nest"]
 
 ############################
 ## Advanced options       ##
