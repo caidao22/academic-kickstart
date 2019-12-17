@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "Lemont"
   date_start = "2016-09-02"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Coupling approaches for climate models
-  * PDE-constrained optimization
-  * Timestepping methods for multiscale problems
-  """
+#  description = """
+#  Responsibilities include:
+#  
+#  * Analysing
+#  * Modelling
+#  * Deploying
+#  """
 
 [[experience]]
   title = "Postdoctoral Appointee"
@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Lemont"
   date_start = "2014-09-02"
   date_end = "2016-09-02"
-  description = """Developed sensitivity analysis capabilities in PETSc"""
+#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
